@@ -1,2 +1,2 @@
 # responsive-web-design
-The repository to store my freeCodeCamp Responsive Web Design sites
+Repository for the responsive web design course
